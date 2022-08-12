@@ -1,0 +1,20 @@
+Use Master
+GO
+    IF exists(Select name From sys.databases Where name='DEMO' )
+    DROP Database DEMO
+GO
+	Create Database DEMO
+GO
+
+USE DEMO
+
+CREATE TABLE Object1(
+	EmpId nvarchar(20) primary key,
+	Name nvarchar(100) not null,
+	Salary int not null
+) 
+GO
+INSERT INTO Object1 VALUES(N'00-092',N'Mít',7000000);
+INSERT INTO Object1 VALUES(N'00-091',N'Nobita',6800000);
+INSERT INTO Object1 VALUES(N'00-098',N'Kim Soo',5500000);
+GO
