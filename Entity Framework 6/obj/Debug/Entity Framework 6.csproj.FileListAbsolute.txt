@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\Entity Framework 6.exe.config
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\Entity Framework 6.exe
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\Entity Framework 6.pdb
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\obj\Debug\Entity Framework 6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\obj\Debug\Entity Framework 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\obj\Debug\Entity Framework 6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\obj\Debug\Entity Framework 6.csproj.CopyComplete
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\obj\Debug\Entity Framework 6.exe
+C:\Users\User\source\repos\Entity Framework 6\Entity Framework 6\obj\Debug\Entity Framework 6.pdb
